@@ -1,1 +1,2 @@
-magento2-blank-theme
+# Magento 2 Blank Theme
+
